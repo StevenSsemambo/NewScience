@@ -1,0 +1,27 @@
+{
+  "short_name": "MathQuest",
+  "name": "MathQuest UG - Exam Prep",
+  "description": "Uganda's AI-Powered UCE & UACE Exam Prep Platform",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#FFD700",
+  "background_color": "#080810",
+  "orientation": "portrait-primary",
+  "categories": ["education"],
+  "lang": "en-UG"
+}
